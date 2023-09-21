@@ -1,6 +1,8 @@
 SQL project to analyze online music store data
 
 This project is for how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+
+
 SQL PROJECT- MUSIC STORE DATA ANALYSIS
 Question Set 1 - Easy
 1. Who is the senior most employee based on job title?
